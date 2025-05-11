@@ -19,3 +19,6 @@ Open the notebook using Jupyter and run all cells.
 - pandas
 - seaborn
 - matplotlib
+
+### 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/emmanuel-ipede)
